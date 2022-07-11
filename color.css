@@ -1,5 +1,5 @@
 h1{
-    font-size: 10rem;
+    font-size: 20rem;
     font-family: Montserrat;
 
 };
@@ -8,7 +8,7 @@ h1{
     
 }
 body{
-    background-color: black;
+    background-color: olive;
     display: flex;
     justify-content: center;
     align-items: center;
